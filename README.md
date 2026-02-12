@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0172-factorial-trailing-zeroes](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Array
