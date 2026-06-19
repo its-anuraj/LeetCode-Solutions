@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Stack
 |  |
@@ -166,8 +168,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
