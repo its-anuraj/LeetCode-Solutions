@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1991-find-the-middle-index-in-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
