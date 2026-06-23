@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3719-longest-balanced-subarray-i](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
 |  |
 | ------- |
