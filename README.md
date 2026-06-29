@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3110-score-of-a-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3110-score-of-a-string) |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -258,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->
