@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1672-richest-customer-wealth](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Dynamic Programming
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3719-longest-balanced-subarray-i](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
 | ------- |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
 |  |
 | ------- |
