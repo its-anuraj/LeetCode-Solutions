@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2652-sum-multiples) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3114-latest-time-you-can-obtain-after-replacing-characters](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3114-latest-time-you-can-obtain-after-replacing-characters) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
