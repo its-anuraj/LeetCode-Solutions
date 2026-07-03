@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0541-reverse-string-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [1108-defanging-an-ip-address](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
