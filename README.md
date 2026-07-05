@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0796-rotate-string) |
 | [1108-defanging-an-ip-address](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Simulation
