@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1539-kth-missing-positive-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
