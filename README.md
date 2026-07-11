@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [0412-fizz-buzz](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2396-strictly-palindromic-number) |
 ## Linked List
 |  |
