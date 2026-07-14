@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2769-find-the-maximum-achievable-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Array
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2016-maximum-difference-between-increasing-elements](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3719-longest-balanced-subarray-i](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Stack
 |  |
 | ------- |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Queue
 |  |
 | ------- |
