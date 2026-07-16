@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/its-anuraj/LeetCode-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Brainteaser
 |  |
