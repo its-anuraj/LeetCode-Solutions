@@ -1,14 +1,24 @@
 class Solution {
     public int removeElement(int[] nums, int val) {
         int n=nums.length;
-        int k=0;
+        int left=0;
+        int right=n-1;
 
-        for(int i=0;i<n;i++){
-            if(nums[i]!=val){
-                nums[k]=nums[i];
-                k++;
+
+        while(left<=right){
+            if(nums[left]==val){
+                int temp=nums[left];
+                nums[left]=nums[right];
+                nums[right]=temp;
+                right--;
+
+            }
+            else{
+                left++;
             }
         }
-        return k;
+        return left;
+
+
     }
 }
